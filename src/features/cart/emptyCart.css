@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Calibri:400,300,700);
+
+.mt-100 {
+  margin-top: 100px;
+}
+
+.card-body {
+  padding: 30px;
+  background-color: transparent;
+}
+
+.btn-primary,
+.btn-primary.disabled,
+.btn-primary:disabled {
+  background-color: #4466f2 !important;
+  border-color: #4466f2 !important;
+}
